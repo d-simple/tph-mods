@@ -1,0 +1,8 @@
+﻿{
+  "Id": "InspectionHotkeys",
+  "DisplayName": "Inspection hotkeys",
+  "Author": "Edgar Tato Poe",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.17.0",
+  "EntryMethod": "InspectionHotkeys.Program.Load"
+}
